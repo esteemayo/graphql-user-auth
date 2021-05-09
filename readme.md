@@ -1,0 +1,3 @@
+# GraphQL User Authentication Application
+
+Built using: express, express-graphql, grapgql, graphql-tools and more ...
